@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Michael Silva.
-- 👀 Me interesso e sou apaixonado por tecnologia! 
+- 👀 Tenho interesse por tecnologias front-end. 
 - 🌱 Atualmente estou aprendendo JavaScript, React, Angular.
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/michael-da-silva-44389999/
 
